@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maaknmusic.github.io/kelvora-website/sitemap.xml
